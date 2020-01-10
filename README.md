@@ -1,5 +1,5 @@
 # IA2_SA
-Simulated Annealing technique for solving the Crew Scheduling Problem
+Simulated Annealing technique for solving the Airline Crew Scheduling Problem
 
 Once commpiled, execute from the Windows terminal with the command:
     
