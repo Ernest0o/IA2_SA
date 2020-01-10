@@ -1,2 +1,6 @@
 # IA2_SA
-Simulated Annealing for the Crew Scheduling Problem
+Simulated Annealing technique for solving the Crew Scheduling Problem
+
+Once commpiled, execute from the Windows terminal with the command:
+    
+    IA2_SA.exe timetable_name.csv (optional)max_iterations (optional)seed
